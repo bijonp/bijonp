@@ -1,6 +1,6 @@
 ## Hi, I’m Bijon 👋
 
-Senior Cloud Database Administrator with 7+ years of experience
+Senior Cloud Database Administrator with 6.5+ years of experience
 designing, upgrading, and operating secure, scalable, and cost‑optimized
 cloud database platforms.
 
@@ -19,5 +19,5 @@ AWS | Aurora PostgreSQL | RDS | MongoDB Atlas | Terraform | PostgreSQL
 - Terraform examples for database infrastructure
 - MongoDB Atlas operational best practices
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/bijon-putatunda
+🔗 **LinkedIn:** https://www.linkedin.com/in/bijon-putatunda-51b955201/
 ``
