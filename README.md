@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m Bijon 👋
 
-<!--
-**bijonp/bijonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Cloud Database Administrator with 7+ years of experience
+designing, upgrading, and operating secure, scalable, and cost‑optimized
+cloud database platforms.
 
-Here are some ideas to get you started:
+### 🔧 Core Expertise
+- AWS RDS & Aurora PostgreSQL (major version upgrades, parameter tuning)
+- MongoDB Atlas (backup strategy, DR drills, scaling & cost optimization)
+- Backup & retention governance aligned with enterprise standards
+- Disaster Recovery planning and restoration drills
+- Cost optimization using Reserved Instances and right‑sizing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+AWS | Aurora PostgreSQL | RDS | MongoDB Atlas | Terraform | PostgreSQL
+
+### 📌 What You’ll Find Here
+- Cloud database runbooks & upgrade notes
+- Terraform examples for database infrastructure
+- MongoDB Atlas operational best practices
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/bijon-putatunda
+``
